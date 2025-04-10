@@ -72,13 +72,6 @@ A capstone JavaScript project using all the core concepts I’ve learned — sta
 
 ---
 
-## 📈 GitHub Activity (Optional)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq-aslam&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ## 🤝 Let's Connect
 
 Feel free to star ⭐ this repo, fork it, or follow my progress.  
